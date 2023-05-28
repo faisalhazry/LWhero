@@ -38,5 +38,5 @@ Node-RED is an open-source programming tool designed for visual programming and 
 ## 7. Video Stage 2:Cloud Platform Demo
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A67i4PCis3I/0.jpg)](https://www.youtube.com/watch?v=A67i4PCis3I)
-https://youtu.be/A67i4PCis3I
+
 
