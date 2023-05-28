@@ -36,5 +36,7 @@ Node-RED is an open-source programming tool designed for visual programming and 
 ![image](https://github.com/faisalhazry/LWhero/assets/128565118/e1488e9b-4e1d-45ae-8dca-b7e9bb460f43)
 
 ## 7. Video Stage 2:Cloud Platform Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A67i4PCis3I/0.jpg)](https://www.youtube.com/watch?v=A67i4PCis3I)
 https://youtu.be/A67i4PCis3I
 
