@@ -1,5 +1,5 @@
-# LWhero
-LWhero: Laundry warning hero
+# LWhero Using NodeRed
+LWhero: Laundry warning hero 
 
 ## 1. Problem Statement
 Housewives often have  to dry clothes outside after the laundry. This can be difficult when the weather is unpredictable or when they don't have a reliable way to check the current conditions. 
